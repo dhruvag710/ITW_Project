@@ -23,7 +23,6 @@ The project covers essential Git commands such as:
 - `git add`
 - `git commit`
 - `git branch`
-- `git merge`
 - `git pull`
 - `git push`
 - `git clone`
